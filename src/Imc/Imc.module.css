@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin-top: 120px;
+  }
+  
+  form {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  input {
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding: 8px;
+  }
